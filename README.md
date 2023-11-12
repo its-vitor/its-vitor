@@ -5,6 +5,6 @@
     </div>
     <div style="flex: 1;">
         <img src="https://github-readme-stats.vercel.app/api?username=its-vitor&show_icons=true&count_private=true&theme=midnight-purple" style="width: 45%;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-vitor&layout=compact&theme=midnight-purple" style="width: 40%;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-vitor&layout=compact&theme=midnight-purple" style="width: 34%;" />
     </div>
 </div>
